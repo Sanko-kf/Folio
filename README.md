@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="/Folio.svg" width="300">
+  <img src="https://i.imgur.com/7Cw3nu2.png" width="300">
   <br>
   FOLIO
   <br>
@@ -41,7 +41,7 @@
 </p>
 
 <div align="center">
-  <img src="/Folio_Banner.gif" alt="Gameplay Screenshot" width="800">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQxeHd4MGxvd3ZtNjZsMDV4b2tqZ2l4d2I0NGp6cXo3eGo4N2IzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/67NeKFFbFJNt2bDhA0/giphy.gif" alt="Gameplay Screenshot" width="800">
 </div>
 
 <div align="center">
@@ -187,7 +187,7 @@ Free to use under the [MIT License](./LICENSE.md), with the condition that you *
 <details>
 <summary>CLICK TO REVEAL THE MAP OF NOTES (SPOILERS)</summary>
 
-![Map of Notes](./Paper_Position_Spoiler.png)
+![Map of Notes](https://i.imgur.com/I9ZdgPC.png)
 
 - **Green**: Spawn point
 - **Orange**: Areas
