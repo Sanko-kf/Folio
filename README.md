@@ -61,7 +61,8 @@
 > **Note**: If Windows blocks execution, click **"More info"**, then **"Run anyway"**  
 
 ## Game Mechanics  
-**Playtime:** Approximate playtime: 1-2 hours (first run)
+**Playtime:** Approximate playtime: 1-2 hours (first run).
+
 **No Save System:** The game must be completed in a single session to maintain tension.  
 
 ### Movement System  
